@@ -11,10 +11,12 @@
   "dependencies": {
     "@nextui-org/react": "^2.1.13",
     "framer-motion": "^10.16.4",
+    "lucide-react": "^0.279.0",
     "next": "latest",
     "next-themes": "^0.2.1",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "zustand": "^4.4.1"
   },
   "devDependencies": {
     "@types/node": "latest",
