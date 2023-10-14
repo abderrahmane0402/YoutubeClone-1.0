@@ -4,7 +4,7 @@ import { Roboto } from "next/font/google"
 import Providers from "./providers"
 import Header from "@/layout/Header"
 
-const roboto = Roboto({ subsets: ["latin"], weight: "500" })
+const roboto = Roboto({ subsets: ["latin"], weight: "400" })
 
 export const metadata: Metadata = {
   title: "Youtube - Clone 1.0",
